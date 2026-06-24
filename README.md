@@ -6,7 +6,7 @@
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/3d355b42-5ff6-423c-a28f-6d63b99b752a" />
 
 
-## sistema de mercadoria em container, e central de distribuição 
+## sistema de mercadoria em container, e central de distribuição, Logística
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/12e8df64-266d-435d-969b-2465ed5c4df3" />
 
 
