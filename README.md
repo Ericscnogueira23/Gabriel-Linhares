@@ -16,7 +16,7 @@
 
 
 
-## esquema visual rm mapa e gráfico por faixa etária de gênero 
+## esquema visual em mapa e gráfico por faixa etária de gênero 
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/f9d5f0ea-9891-4270-a7c8-576553645363" />
 
 
