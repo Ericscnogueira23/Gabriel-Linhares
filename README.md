@@ -1,22 +1,26 @@
 ## Slide inicial " Segmento Logístico no ecossistema do Vale do Paríba " (Logistic Company)
-<img width="1920" height="1080" alt="Sprint 3" src="https://github.com/user-attachments/assets/0eadde87-483b-46c4-a5c6-49d6c421af24" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/4d38ca9c-ef37-4e2a-871d-76a3518ecb57" />
 
 
 ## Tabelas e gráficos através de dados do Vale do Paraíba
-<img width="1920" height="1080" alt="Sprint 3 (1)" src="https://github.com/user-attachments/assets/e0461c3c-1877-48f9-81e9-d67d20aef06b" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/3d355b42-5ff6-423c-a28f-6d63b99b752a" />
 
 
 ## Nosso Portfólio:
-<img width="1920" height="1080" alt="Sprint 3 (2)" src="https://github.com/user-attachments/assets/c7341b51-1a73-4a51-8c31-526080924d31" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/12e8df64-266d-435d-969b-2465ed5c4df3" />
+
 
 
 ## Apresentação da nossa equipe:
-<img width="1920" height="1080" alt="Sprint 3 (3)" src="https://github.com/user-attachments/assets/ec8d5de3-90d7-446a-b722-db3f93c1d670" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/64ae1e8d-16b5-4acf-a952-d4547b0932ee" />
+
 
 
 ## Nosso contato principal:
-<img width="1920" height="1080" alt="Sprint 3 (4)" src="https://github.com/user-attachments/assets/a376d633-ea47-4448-9e48-5b7e42d950fd" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/f9d5f0ea-9891-4270-a7c8-576553645363" />
+
 
 
 ## Agradeço a atenção, estaremos à disposição para quaisquer esclarecimentos
-<img width="1920" height="1080" alt="Sprint 3 (5)" src="https://github.com/user-attachments/assets/963685ca-dd5d-47dd-b9d6-2ea2dcb434a9" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/3ba1ff0c-f7ca-4d2c-a391-f49030f4803d" />
+
